@@ -7,3 +7,5 @@ Several bullets:
 - User can set the ceiling of automatic PPP (e.g. 2 Musicoin) to prevent overpayment
 - Displaying 3 views of PPP license when user click a music with its details. Musicians can preview the license layers as well before they press the "release" button.
 - Display PPP price surge warning on player(maybe a ♩ with red color)
+- remove some technical terms like "ipfs" but using other readable language like "media net", etc.
+- upgradeable from within the application
