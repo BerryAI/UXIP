@@ -11,6 +11,8 @@ Several bullets:
 - Upgradeable from within the application
 - Indicate current application version and tell users it's running on test network in balance page.
 - How to downsize the size of package itself? or make a installer program?
+- *For alpha software, always displaying it's running on "test network"
+- Provide some links in application to online forum, Q&A, etc. on web site to enable users to have feedback. e.g. forum.musicoin.org can be a place to link. 
 
 
 Questions:
