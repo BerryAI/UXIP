@@ -2,6 +2,7 @@ UXIP #1
 
 Several bullets:
 
+- Help user backup wallet(keystore) from within application (how to backup?)
 - Musicians should be able to see the detail income of their works
 - The playlist/music works and release display should be different in visual
 - User can set the ceiling of automatic PPP (e.g. 2 Musicoin) to prevent overpayment
@@ -12,7 +13,7 @@ Several bullets:
 - Indicate current application version and tell users it's running on test network in balance page.
 - How to downsize the size of package itself? or make a installer program?
 - *For alpha software, always displaying it's running on "test network"
-- Provide some links in application to online forum, Q&A, etc. on web site to enable users to have feedback. e.g. forum.musicoin.org can be a place to link. 
+- Provide some links in application to online forum, Q&A, etc. on web site to enable users to have feedback. e.g. forum.musicoin.org can be a place to link.
 
 
 Questions:
