@@ -1,5 +1,7 @@
 UXIP #1
 
+(This issue of UXIP will be kept in effective before new release of application. Next UXIP will be based on the scrutiny of the most recent release.)
+
 Several bullets:
 
 - Help user backup wallet(keystore) from within application (how to backup?)
@@ -12,8 +14,9 @@ Several bullets:
 - Upgradeable from within the application
 - Indicate current application version and tell users it's running on test network in balance page.
 - How to downsize the size of package itself? or make a installer program?
-- *For alpha software, always displaying it's running on "test network"
+- For alpha software, always displaying it's running on "test network"
 - Provide some links in application to online forum, Q&A, etc. on web site to enable users to have feedback. e.g. forum.musicoin.org can be a place to link.
+- Redesigning "play" button to put Pay-Per-Play more visualized with player
 
 
 Questions:
